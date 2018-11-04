@@ -1,0 +1,11 @@
+{
+    "name": "Tooltip",
+    "description": "Show a tooltip for a selected element on mouse hover",
+    "author": "Stefano Tirloni",
+
+    "require": "{tooltip} = require 'Tooltip'",
+    "install": "Tooltip.coffee",
+    "example": "example.coffee",
+
+    "thumb": "t-thumb.png"
+}
