@@ -19,7 +19,7 @@ or
 
 ## How To Use
 
-#### Initialize default range filter
+#### Initialize the tooltip
 ```coffeescript
 # Use tooltip -> ( layerTrigger, layerTooltip, layerTriggerBgColour[optional] )
 tooltip.Tooltip(one, tool, "#f8f8f8")
