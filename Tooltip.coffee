@@ -1,5 +1,5 @@
 # Tooltip function
-exports.tooltipOnHover = (layerA, layerB, layerAbgColour) ->
+exports.Tooltip = (layerA, layerB, layerAbgColour) ->
 
 	# Reset the cursor to normal
 	document.body.style.cursor = "auto"
